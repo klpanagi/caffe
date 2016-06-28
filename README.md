@@ -1,3 +1,5 @@
+This is a caffe fork, of [slayton58/caffe](https://github.com/slayton58/caffe), suited for the JetsonTK1 devBoard (32 bit architecture), with enabled cuDNN support.
+
 # Caffe
 
 Caffe is a deep learning framework made with expression, speed, and modularity in mind.
